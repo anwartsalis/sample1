@@ -4,3 +4,7 @@ sample1
 >aku coba edit bug
 
 ##ini header ke dua
+
+'''java
+System.out.println("hello");
+'''
